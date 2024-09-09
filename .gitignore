@@ -1,0 +1,19 @@
+[Llaves y archivos de Unity]
+Temp/
+Library/
+Logs/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.meta
